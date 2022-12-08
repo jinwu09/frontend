@@ -17,12 +17,23 @@ module.exports = {
           blue: "#3c91e6",
           yellow: "#ffce25",
           orange: "#fe7237",
+          violet: "#d42c83",
         },
       },
       borderColor: {
         skin: {
           gray: "#eeeeee",
           white: "#faf9f9",
+        },
+      },
+      textColor: {
+        skin: {
+          gray: "#eeeeee",
+          white: "#faf9f9",
+          blue: "#3c91e6",
+          yellow: "#ffce25",
+          orange: "#fe7237",
+          violet: "#d42c83",
         },
       },
     },
